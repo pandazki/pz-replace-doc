@@ -1,0 +1,22 @@
+{
+  "name": "pz-replace-doc",
+  "version": "1.0.0",
+  "description": "> 人类的本质就是复读机。        —— 沙雕网友",
+  "main": "index.js",
+  "scripts": {
+    "dev": "docsify serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandazki/pz-replace-doc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandazki/pz-replace-doc/issues"
+  },
+  "homepage": "https://github.com/pandazki/pz-replace-doc#readme",
+  "devDependencies": {
+    "docsify": "^4.8.6"
+  }
+}
