@@ -1,5 +1,5 @@
 {
-  "name": "pz-replace-doc",
+  "name": "pz-transform-doc",
   "version": "1.0.0",
   "description": "「文本处理」来自程序员的善意分享",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pandazki/pz-replace-doc.git"
+    "url": "git+https://github.com/pandazki/pz-transform-doc.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pandazki/pz-replace-doc/issues"
+    "url": "https://github.com/pandazki/pz-transform-doc/issues"
   },
-  "homepage": "https://github.com/pandazki/pz-replace-doc#readme",
+  "homepage": "https://github.com/pandazki/pz-transform-doc#readme",
   "devDependencies": {
     "docsify": "^4.8.6"
   }
